@@ -1,4 +1,6 @@
 The Student Portal is a dynamic and user-friendly web application crafted with cutting-edge technologies, featuring a seamless blend of React.js for the front end and Node.js for the robust back-end infrastructure. This portal serves as a comprehensive platform to enhance the academic experience for students, providing intuitive interfaces and powerful functionality.
+<h1>Login page</h1>
+<img width="960" alt="image" src="https://github.com/Yashcodes04/StudentsPortal-Web-Dev-project/assets/143002423/65547f19-1f4d-4ce1-a45c-9cd45b11350e">
 <h1>DARK MODE:-</h1>
 <img width="953" alt="image" src="https://github.com/Yashcodes04/StudentsPortal-Web-Dev-project/assets/143002423/84e75019-6dba-4e3b-ae89-5260be757bb9">
 <h1>LIGHT MODE:- </h1>
